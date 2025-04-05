@@ -54,7 +54,7 @@ A simple SQL-based Inventory Management System to track **products**, **supplier
 ## 🛠️ How to Use
 
 1. **Clone the repo** or copy the SQL scripts
-2. Import into any MySQL environment (e.g., XAMPP, phpMyAdmin, MySQL Workbench)
+2. Import into any MySQL environment (e.g.MySQL Workbench)
 3. Run the `CREATE DATABASE` and `CREATE TABLE` scripts
 4. Insert the sample data
 5. Execute queries to test
