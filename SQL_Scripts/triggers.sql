@@ -1,6 +1,6 @@
 use project_5;
 
--- 4. Update stock after a sale. 
+-- 4. Update stock after a sale.
 
 delimiter $$  
 create trigger update_stock_after_sale  
