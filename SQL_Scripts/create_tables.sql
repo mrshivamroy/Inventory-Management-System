@@ -25,7 +25,7 @@ SupplierID int,
 
 foreign key(SupplierID) references Suppliers(SupplierID) 
 
-); 
+);
 
 create table Sales( 
 
