@@ -6,7 +6,7 @@ select ProductID,PName
 from Product 
 where Stock<10; 
 
--- 2. Retrieve details of suppliers supplying a specific product. 
+-- 2. Retrieve details of suppliers supplying a specific product.
 
 select s.SupplierID,s.SName,p.PName 
 from Suppliers s 
